@@ -1,4 +1,3 @@
-
 import math
 def get_participants(handshakes):
     a=math.ceil((1+8*handshakes)**0.5)
